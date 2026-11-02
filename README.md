@@ -26,3 +26,6 @@ EVT 補充：2019 經典條件、DEFUSE 3/DAWN/MR CLEAN-LATE、ATTENTION/BAOCHE�
 ## 2025 台灣 IVT 檢核表
 
 IVT 章節含 2025 台灣腦中風學會總表三的三張重排教學頁。請以官方 PDF 第 34–35 頁的總表三、總表四及院內規範為最終依據。
+
+
+更新：新增 Aspirin 單藥／DAPT 劑量與 21 天療程、IVT 後使用時機，以及高壓氧非標準治療提醒。
